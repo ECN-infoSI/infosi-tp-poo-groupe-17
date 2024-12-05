@@ -57,7 +57,7 @@ jobs:
             # mandatory
             -Dsonar.projectKey=ECN-infoSI_infosi-tp-poo-lacoustille-petit
             -Dsonar.organization=ecn-infosi
-            -Dsonar.sources=./ProjetTP/src
+            -Dsonar.sources=ProjetTP/src/main/java/org/centrale/objet/WoE
             # Comma-separated paths to directories containing main source files.
             #-Dsonar.sources=ProjetTP/src # optional, default is project base directory
             # Comma-separated paths to directories containing test source files.
